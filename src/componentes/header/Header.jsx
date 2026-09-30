@@ -8,7 +8,7 @@ function Header() {
 
         <div className="header__info">
           <h1 className="header__title">
-            Maira Luz Tipaldo
+            Maria Salazar
           </h1>
 
           <div className="header__line"></div>
@@ -19,7 +19,7 @@ function Header() {
             </p>
 
             <p className="header__license">
-              M.N. 58139
+              M.N. 0000
             </p>
 
             <div className="header__specialties">

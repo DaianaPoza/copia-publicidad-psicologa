@@ -4,12 +4,12 @@ import { FaWhatsapp } from "react-icons/fa";
 import { LuMail } from "react-icons/lu";
 
 function Contacto() {
-  const telefonoVisible = "+54 9 11 5153-7937";
-  const telefonoWhatsApp = "5491151537937";
-  const email = "mai.tipaldo@gmail.com";
+  const telefonoVisible = "";
+  const telefonoWhatsApp = "";
+  const email = "..@gmail.com";
 
   const mensajeWhatsApp =
-    "Hola Mai, quisiera realizar una consulta.";
+    "Hola Maria, quisiera realizar una consulta.";
 
   const enlaceWhatsApp =
     `https://wa.me/${telefonoWhatsApp}?text=${encodeURIComponent(
